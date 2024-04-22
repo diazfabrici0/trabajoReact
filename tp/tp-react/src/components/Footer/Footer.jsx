@@ -11,7 +11,7 @@ export const Footer = () => (
   >
     <Grid container spacing={5} justifyContent="center" alignItems="center">
       <Grid item xs={8}>
-        <SubTitle text="Desarrollado por Centena Jose, Diaz Fabricio, Nacho Cayuqueo" />
+        <SubTitle text="Desarrollado por Diaz Fabricio, Centena Jose, Cayuqueo Nacho" />
         <SubTitle text="Grupo 6 - Programación Web Avanzada" />
       </Grid>
     </Grid>
