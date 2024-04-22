@@ -23,6 +23,11 @@ Además, la aplicación cuenta con un buscador que te permite encontrar rápidam
 
 Por ultimo cuenta con un contador que te muestra el número total de tareas y el número de tareas completadas, para que puedas tener una visión clara de tu progreso.
 
+<img src="tp/tp-react/src/assets/images/todolist_1.png" alt="To-Do List 1" width="400">
+<img src="tp/tp-react/src/assets/images/todolist_2.png" alt="To-Do List 2" width="400">
+<img src="tp/tp-react/src/assets/images/todolist_3.png" alt="To-Do List 3" width="400">
+<img src="tp/tp-react/src/assets/images/todolist_4.png" alt="To-Do List 4" width="400">
+
 ## Preguntas
 
 ### Funcionalidad Index.js, App.js, Index.js, Package-json
