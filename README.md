@@ -171,7 +171,7 @@ git push -u origin main
 - **Correo Institucional**: _@est.fi.uncoma.edu.ar_
 - **GitHub**: [diazfabrici0](https://github.com/diazfabrici0)
 
-# Información Adicional
+# Informacion Adicional
 
 - **Trabajo Practico React**: Aplicación de Lista de Tareas (To-Do List)
 - **Docentes**: Lidia López - Agustín Chiarotto
