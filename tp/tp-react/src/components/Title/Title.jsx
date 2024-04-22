@@ -1,12 +1,11 @@
-import style from './Title.module.css';
+import { Typography } from "@mui/material";
 
-const Title = ({text}) => {
+export const Title = ({ text }) => {
   return (
-    <div className={style.title}>
-      <h1>{text}</h1>
-      <p><b>Grupo 6:</b> Diaz, Fabricio | Centena, Jose | Nacho Cayuqueo</p>
+    <div>
+      <Typography align="center" variant="h4">
+        {text}
+      </Typography>
     </div>
   );
 };
-
-export default Title;
